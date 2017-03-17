@@ -1,0 +1,29 @@
+{
+  "name": "gulp-no-css-media",
+  "version": "0.1.0",
+  "description": "remove unused css media condition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foolishchow/gulp-no-css-media.git"
+  },
+  "keywords": [
+    "media",
+    "remove",
+    "condition"
+  ],
+  "author": "foolishchow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/foolishchow/gulp-no-css-media/issues"
+  },
+  "dependencies": {
+    "css": "^2.2.1",
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.1"
+  },
+  "homepage": "https://github.com/foolishchow/gulp-no-css-media#readme"
+}
